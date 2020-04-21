@@ -1,5 +1,7 @@
 # Divide the apples
 ![](apple2.gif)
+
+
 n schoolchildren divide k apples evenly, the residue remains in the basket. How many apples will get each child?
 
 ### Input
