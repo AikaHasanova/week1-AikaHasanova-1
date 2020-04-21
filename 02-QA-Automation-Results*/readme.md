@@ -1,6 +1,6 @@
-## Test edilən və testlərin nəticələri successful və failed olan səhifələr siyahısını yaddaşda saxlayan proqram tərtib edin.
-1. İstifadəçidən saytın domain-nini daxil etməsini istəyin. məsələn `example.com`
-2. Daxil edilen domain ardınca istifadəçidən test ediləcək 5 səhifənin link-ni daxil etməsini istəyin.
-3. Hər bir link daxil edildikdən sonra testin nəticəsi `successful` olan səhifələr üçün 1, testin nəticəsi `failed` olan səhifələr üçün 0 daxil etməsini istəyin.
-4. Testin nəticəsi failed olan successful olan səhifələrin sayını tapın.
-5. Sonda ekrana `example.com  websaytında 5 səhifə test edildi onlardan n qədəri successful 5-n qədəri failed oldu` kimi yazı çıxarın.
+## Create a program that stores a list of pages that have been tested and the results of which have been successful or failed.
+1. Ask from user to enter the domain of the site. For example `example.com`
+2. After entering the domain, ask the user to enter the links of 5 pages to be tested.
+3. After each link is entered, ask them to enter 1 for pages with a `successful` test result and 0 for pages with a `failed` test result.
+4. Find the number of pages where the test result was `successful` or `failed`.
+5. In the end, show text like `5 pages are tested, n of them were succesfull and m of them failed`.
