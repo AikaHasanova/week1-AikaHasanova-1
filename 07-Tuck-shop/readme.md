@@ -7,3 +7,14 @@ In a single line given three non-negative integers - the appropriate amount of c
 
 ### Output
 Print the maximum possible number of cakes that Dima can choose.
+
+a = int(input("vanilla cake"))
+b = int(input("chocolate cake"))
+c = int(input("fruit cake"))
+
+cakes=(a+b+c)
+if (cakes<20000):
+    print("Dima can choose", cakes, "cakes")
+else:
+    print("Enter the number less than 20000")
+
